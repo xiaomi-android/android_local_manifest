@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github"
+           fetch="git://github.com" />
+
+  <project path="device/xiaomi/aries" name="xiaomi-android/android_device_xiaomi_aries" revision="android-4.3" remote="github" />
+  <project path="kernel/xiaomi/aries" name="xiaomi-android/android_kernel_xiaomi_aries" revision="android-4.3" remote="github" />
+</manifest>
